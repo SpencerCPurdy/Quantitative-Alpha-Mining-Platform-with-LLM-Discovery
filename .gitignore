@@ -1,1 +1,25 @@
+# Byte-compiled and cache files
+__pycache__/
+*.pyc
+.pytest_cache/
+.cache
 
+# Virtual Environments
+# Ignore the virtual environment folder, which is standard practice
+venv/
+.venv/
+env/
+
+# Environment variables
+# Never commit files containing secrets like API keys
+.env
+.env.*
+!.env.example
+
+# IDE and editor configuration files
+.idea/
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
