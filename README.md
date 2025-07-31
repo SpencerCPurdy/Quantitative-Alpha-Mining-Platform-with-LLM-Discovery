@@ -1,14 +1,4 @@
----
-title: Quantitative Alpha Mining Platform With LLM Discovery
-colorFrom: gray
-colorTo: gray
-sdk: gradio
-sdk_version: 5.39.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: Quant platform using LLMs for alpha discovery & HRP design
----
+Live Demo: https://huggingface.co/spaces/SpencerCPurdy/Quantitative_Alpha_Mining_Platform_with_LLM_Discovery
 
 # Quantitative Alpha Mining Platform with LLM Discovery
 
